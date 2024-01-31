@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\Orienteds\Orienteds\bin\Debug\Orienteds.exe.config
+C:\Users\a2aka\source\repos\Orienteds\Orienteds\bin\Debug\Orienteds.exe
+C:\Users\a2aka\source\repos\Orienteds\Orienteds\bin\Debug\Orienteds.pdb
+C:\Users\a2aka\source\repos\Orienteds\Orienteds\obj\Debug\Orienteds.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\Orienteds\Orienteds\obj\Debug\Orienteds.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\Orienteds\Orienteds\obj\Debug\Orienteds.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\Orienteds\Orienteds\obj\Debug\Orienteds.exe
+C:\Users\a2aka\source\repos\Orienteds\Orienteds\obj\Debug\Orienteds.pdb

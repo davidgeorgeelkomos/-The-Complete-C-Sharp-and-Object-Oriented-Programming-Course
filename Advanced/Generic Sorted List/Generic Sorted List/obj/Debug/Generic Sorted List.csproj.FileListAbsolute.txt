@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\Generic Sorted List\Generic Sorted List\bin\Debug\Generic Sorted List.exe.config
+C:\Users\a2aka\source\repos\Generic Sorted List\Generic Sorted List\bin\Debug\Generic Sorted List.exe
+C:\Users\a2aka\source\repos\Generic Sorted List\Generic Sorted List\bin\Debug\Generic Sorted List.pdb
+C:\Users\a2aka\source\repos\Generic Sorted List\Generic Sorted List\obj\Debug\Generic Sorted List.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\Generic Sorted List\Generic Sorted List\obj\Debug\Generic Sorted List.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\Generic Sorted List\Generic Sorted List\obj\Debug\Generic Sorted List.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\Generic Sorted List\Generic Sorted List\obj\Debug\Generic Sorted List.exe
+C:\Users\a2aka\source\repos\Generic Sorted List\Generic Sorted List\obj\Debug\Generic Sorted List.pdb

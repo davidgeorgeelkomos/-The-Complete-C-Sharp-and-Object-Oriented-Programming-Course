@@ -1,0 +1,16 @@
+C:\Users\a2aka\source\repos\ExeptaionExercise\ExeptaionExercise\bin\Debug\ExeptaionExercise.exe.config
+C:\Users\a2aka\source\repos\ExeptaionExercise\ExeptaionExercise\bin\Debug\ExeptaionExercise.exe
+C:\Users\a2aka\source\repos\ExeptaionExercise\ExeptaionExercise\bin\Debug\ExeptaionExercise.pdb
+C:\Users\a2aka\source\repos\ExeptaionExercise\ExeptaionExercise\obj\Debug\ExeptaionExercise.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\ExeptaionExercise\ExeptaionExercise\obj\Debug\ExeptaionExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\ExeptaionExercise\ExeptaionExercise\obj\Debug\ExeptaionExercise.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\ExeptaionExercise\ExeptaionExercise\obj\Debug\ExeptaionExercise.exe
+C:\Users\a2aka\source\repos\ExeptaionExercise\ExeptaionExercise\obj\Debug\ExeptaionExercise.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\ExeptaionExercise\ExeptaionExercise\bin\Debug\ExeptaionExercise.exe.config
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\ExeptaionExercise\ExeptaionExercise\bin\Debug\ExeptaionExercise.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\ExeptaionExercise\ExeptaionExercise\bin\Debug\ExeptaionExercise.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\ExeptaionExercise\ExeptaionExercise\obj\Debug\ExeptaionExercise.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\ExeptaionExercise\ExeptaionExercise\obj\Debug\ExeptaionExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\ExeptaionExercise\ExeptaionExercise\obj\Debug\ExeptaionExercise.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\ExeptaionExercise\ExeptaionExercise\obj\Debug\ExeptaionExercise.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\ExeptaionExercise\ExeptaionExercise\obj\Debug\ExeptaionExercise.pdb

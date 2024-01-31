@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\CaesarCipherExercise\CaesarCipherExercise\bin\Debug\CaesarCipherExercise.exe.config
+C:\Users\a2aka\source\repos\CaesarCipherExercise\CaesarCipherExercise\bin\Debug\CaesarCipherExercise.exe
+C:\Users\a2aka\source\repos\CaesarCipherExercise\CaesarCipherExercise\bin\Debug\CaesarCipherExercise.pdb
+C:\Users\a2aka\source\repos\CaesarCipherExercise\CaesarCipherExercise\obj\Debug\CaesarCipherExercise.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\CaesarCipherExercise\CaesarCipherExercise\obj\Debug\CaesarCipherExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\CaesarCipherExercise\CaesarCipherExercise\obj\Debug\CaesarCipherExercise.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\CaesarCipherExercise\CaesarCipherExercise\obj\Debug\CaesarCipherExercise.exe
+C:\Users\a2aka\source\repos\CaesarCipherExercise\CaesarCipherExercise\obj\Debug\CaesarCipherExercise.pdb

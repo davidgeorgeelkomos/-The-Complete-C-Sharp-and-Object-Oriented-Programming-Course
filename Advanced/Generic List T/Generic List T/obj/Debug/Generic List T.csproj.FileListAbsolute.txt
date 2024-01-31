@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\Generic List T\Generic List T\bin\Debug\Generic List T.exe.config
+C:\Users\a2aka\source\repos\Generic List T\Generic List T\bin\Debug\Generic List T.exe
+C:\Users\a2aka\source\repos\Generic List T\Generic List T\bin\Debug\Generic List T.pdb
+C:\Users\a2aka\source\repos\Generic List T\Generic List T\obj\Debug\Generic List T.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\Generic List T\Generic List T\obj\Debug\Generic List T.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\Generic List T\Generic List T\obj\Debug\Generic List T.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\Generic List T\Generic List T\obj\Debug\Generic List T.exe
+C:\Users\a2aka\source\repos\Generic List T\Generic List T\obj\Debug\Generic List T.pdb

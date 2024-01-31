@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\string to int\string to int\bin\Debug\string to int.exe.config
+C:\Users\a2aka\source\repos\string to int\string to int\bin\Debug\string to int.exe
+C:\Users\a2aka\source\repos\string to int\string to int\bin\Debug\string to int.pdb
+C:\Users\a2aka\source\repos\string to int\string to int\obj\Debug\string to int.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\string to int\string to int\obj\Debug\string to int.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\string to int\string to int\obj\Debug\string to int.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\string to int\string to int\obj\Debug\string to int.exe
+C:\Users\a2aka\source\repos\string to int\string to int\obj\Debug\string to int.pdb

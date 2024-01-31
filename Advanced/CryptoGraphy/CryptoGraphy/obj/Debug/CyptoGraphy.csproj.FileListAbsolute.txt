@@ -1,0 +1,16 @@
+C:\Users\a2aka\source\repos\CyptoGraphy\CyptoGraphy\bin\Debug\CyptoGraphy.exe.config
+C:\Users\a2aka\source\repos\CyptoGraphy\CyptoGraphy\bin\Debug\CyptoGraphy.exe
+C:\Users\a2aka\source\repos\CyptoGraphy\CyptoGraphy\bin\Debug\CyptoGraphy.pdb
+C:\Users\a2aka\source\repos\CyptoGraphy\CyptoGraphy\obj\Debug\CyptoGraphy.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\CyptoGraphy\CyptoGraphy\obj\Debug\CyptoGraphy.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\CyptoGraphy\CyptoGraphy\obj\Debug\CyptoGraphy.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\CyptoGraphy\CyptoGraphy\obj\Debug\CyptoGraphy.exe
+C:\Users\a2aka\source\repos\CyptoGraphy\CyptoGraphy\obj\Debug\CyptoGraphy.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\CryptoGraphy\CyptoGraphy\bin\Debug\CyptoGraphy.exe.config
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\CryptoGraphy\CyptoGraphy\bin\Debug\CyptoGraphy.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\CryptoGraphy\CyptoGraphy\bin\Debug\CyptoGraphy.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\CryptoGraphy\CyptoGraphy\obj\Debug\CyptoGraphy.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\CryptoGraphy\CyptoGraphy\obj\Debug\CyptoGraphy.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\CryptoGraphy\CyptoGraphy\obj\Debug\CyptoGraphy.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\CryptoGraphy\CyptoGraphy\obj\Debug\CyptoGraphy.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\CryptoGraphy\CyptoGraphy\obj\Debug\CyptoGraphy.pdb

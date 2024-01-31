@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\List of Animals and Trainers Exercise\List of Animals and Trainers Exercise\bin\Debug\List of Animals and Trainers Exercise.exe.config
+C:\Users\a2aka\source\repos\List of Animals and Trainers Exercise\List of Animals and Trainers Exercise\bin\Debug\List of Animals and Trainers Exercise.exe
+C:\Users\a2aka\source\repos\List of Animals and Trainers Exercise\List of Animals and Trainers Exercise\bin\Debug\List of Animals and Trainers Exercise.pdb
+C:\Users\a2aka\source\repos\List of Animals and Trainers Exercise\List of Animals and Trainers Exercise\obj\Debug\List of Animals and Trainers Exercise.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\List of Animals and Trainers Exercise\List of Animals and Trainers Exercise\obj\Debug\List of Animals and Trainers Exercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\List of Animals and Trainers Exercise\List of Animals and Trainers Exercise\obj\Debug\List of Animals and Trainers Exercise.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\List of Animals and Trainers Exercise\List of Animals and Trainers Exercise\obj\Debug\List of Animals and Trainers Exercise.exe
+C:\Users\a2aka\source\repos\List of Animals and Trainers Exercise\List of Animals and Trainers Exercise\obj\Debug\List of Animals and Trainers Exercise.pdb
