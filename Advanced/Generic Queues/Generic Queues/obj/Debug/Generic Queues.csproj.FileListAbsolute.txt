@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Queues\Generic Queues\bin\Debug\Generic Queues.exe.config
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Queues\Generic Queues\bin\Debug\Generic Queues.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Queues\Generic Queues\bin\Debug\Generic Queues.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Queues\Generic Queues\obj\Debug\Generic Queues.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Queues\Generic Queues\obj\Debug\Generic Queues.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Queues\Generic Queues\obj\Debug\Generic Queues.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Queues\Generic Queues\obj\Debug\Generic Queues.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Queues\Generic Queues\obj\Debug\Generic Queues.pdb
