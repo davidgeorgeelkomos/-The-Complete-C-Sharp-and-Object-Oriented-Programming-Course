@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Tuples with Methods\Tuples with Methods\bin\Debug\Tuples with Methods.exe.config
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Tuples with Methods\Tuples with Methods\bin\Debug\Tuples with Methods.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Tuples with Methods\Tuples with Methods\bin\Debug\Tuples with Methods.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Tuples with Methods\Tuples with Methods\obj\Debug\Tuples with Methods.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Tuples with Methods\Tuples with Methods\obj\Debug\Tuples with Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Tuples with Methods\Tuples with Methods\obj\Debug\Tuples with Methods.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Tuples with Methods\Tuples with Methods\obj\Debug\Tuples with Methods.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Tuples with Methods\Tuples with Methods\obj\Debug\Tuples with Methods.pdb
