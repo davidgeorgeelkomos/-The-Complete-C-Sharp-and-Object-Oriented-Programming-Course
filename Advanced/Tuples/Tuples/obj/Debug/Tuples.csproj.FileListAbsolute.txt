@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Tuples\Tuples\bin\Debug\Tuples.exe.config
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Tuples\Tuples\bin\Debug\Tuples.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Tuples\Tuples\bin\Debug\Tuples.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Tuples\Tuples\obj\Debug\Tuples.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Tuples\Tuples\obj\Debug\Tuples.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Tuples\Tuples\obj\Debug\Tuples.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Tuples\Tuples\obj\Debug\Tuples.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Tuples\Tuples\obj\Debug\Tuples.pdb
