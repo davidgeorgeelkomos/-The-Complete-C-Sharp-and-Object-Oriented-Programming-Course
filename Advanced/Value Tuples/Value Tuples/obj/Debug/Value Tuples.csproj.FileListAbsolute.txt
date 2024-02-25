@@ -1,0 +1,11 @@
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Value Tuples\Value Tuples\bin\Debug\Value Tuples.exe.config
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Value Tuples\Value Tuples\bin\Debug\Value Tuples.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Value Tuples\Value Tuples\bin\Debug\Value Tuples.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Value Tuples\Value Tuples\bin\Debug\System.ValueTuple.dll
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Value Tuples\Value Tuples\bin\Debug\System.ValueTuple.xml
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Value Tuples\Value Tuples\obj\Debug\Value Tuples.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Value Tuples\Value Tuples\obj\Debug\Value Tuples.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Value Tuples\Value Tuples\obj\Debug\Value Tuples.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Value Tuples\Value Tuples\obj\Debug\Value Tuples.csproj.CopyComplete
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Value Tuples\Value Tuples\obj\Debug\Value Tuples.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Value Tuples\Value Tuples\obj\Debug\Value Tuples.pdb

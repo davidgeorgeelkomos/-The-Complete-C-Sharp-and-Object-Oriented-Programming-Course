@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Nested Value Tuples\Nested Value Tuples\bin\Debug\Nested Value Tuples.exe.config
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Nested Value Tuples\Nested Value Tuples\bin\Debug\Nested Value Tuples.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Nested Value Tuples\Nested Value Tuples\bin\Debug\Nested Value Tuples.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Nested Value Tuples\Nested Value Tuples\obj\Debug\Nested Value Tuples.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Nested Value Tuples\Nested Value Tuples\obj\Debug\Nested Value Tuples.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Nested Value Tuples\Nested Value Tuples\obj\Debug\Nested Value Tuples.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Nested Value Tuples\Nested Value Tuples\obj\Debug\Nested Value Tuples.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Nested Value Tuples\Nested Value Tuples\obj\Debug\Nested Value Tuples.pdb
