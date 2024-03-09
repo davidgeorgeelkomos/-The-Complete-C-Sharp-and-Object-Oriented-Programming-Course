@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Arguments\Generic Arguments\bin\Debug\Generic Arguments.exe.config
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Arguments\Generic Arguments\bin\Debug\Generic Arguments.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Arguments\Generic Arguments\bin\Debug\Generic Arguments.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Arguments\Generic Arguments\obj\Debug\Generic Arguments.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Arguments\Generic Arguments\obj\Debug\Generic Arguments.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Arguments\Generic Arguments\obj\Debug\Generic Arguments.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Arguments\Generic Arguments\obj\Debug\Generic Arguments.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Arguments\Generic Arguments\obj\Debug\Generic Arguments.pdb
