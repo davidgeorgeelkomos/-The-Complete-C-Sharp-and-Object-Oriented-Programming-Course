@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Nested Functions\Nested Functions\bin\Debug\Nested Functions.exe.config
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Nested Functions\Nested Functions\bin\Debug\Nested Functions.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Nested Functions\Nested Functions\bin\Debug\Nested Functions.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Nested Functions\Nested Functions\obj\Debug\Nested Functions.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Nested Functions\Nested Functions\obj\Debug\Nested Functions.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Nested Functions\Nested Functions\obj\Debug\Nested Functions.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Nested Functions\Nested Functions\obj\Debug\Nested Functions.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Nested Functions\Nested Functions\obj\Debug\Nested Functions.pdb
