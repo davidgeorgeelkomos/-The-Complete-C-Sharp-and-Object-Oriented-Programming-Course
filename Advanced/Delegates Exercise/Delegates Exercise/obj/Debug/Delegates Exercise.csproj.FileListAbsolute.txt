@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Delegates Exercise\Delegates Exercise\bin\Debug\Delegates Exercise.exe.config
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Delegates Exercise\Delegates Exercise\bin\Debug\Delegates Exercise.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Delegates Exercise\Delegates Exercise\bin\Debug\Delegates Exercise.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Delegates Exercise\Delegates Exercise\obj\Debug\Delegates Exercise.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Delegates Exercise\Delegates Exercise\obj\Debug\Delegates Exercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Delegates Exercise\Delegates Exercise\obj\Debug\Delegates Exercise.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Delegates Exercise\Delegates Exercise\obj\Debug\Delegates Exercise.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Delegates Exercise\Delegates Exercise\obj\Debug\Delegates Exercise.pdb
