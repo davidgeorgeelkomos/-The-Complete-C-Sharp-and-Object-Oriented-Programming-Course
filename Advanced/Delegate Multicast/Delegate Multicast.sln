@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate Multicast", "Delegate Multicast\Delegate Multicast.csproj", "{7819F9C1-D641-4D7C-A1C2-1EC28667A220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7819F9C1-D641-4D7C-A1C2-1EC28667A220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7819F9C1-D641-4D7C-A1C2-1EC28667A220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7819F9C1-D641-4D7C-A1C2-1EC28667A220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7819F9C1-D641-4D7C-A1C2-1EC28667A220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91D11CE6-A905-4F20-8F81-2550F508C68D}
+	EndGlobalSection
+EndGlobal

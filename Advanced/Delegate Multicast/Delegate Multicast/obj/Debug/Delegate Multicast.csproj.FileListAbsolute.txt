@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Delegate Multicast\Delegate Multicast\bin\Debug\Delegate Multicast.exe.config
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Delegate Multicast\Delegate Multicast\bin\Debug\Delegate Multicast.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Delegate Multicast\Delegate Multicast\bin\Debug\Delegate Multicast.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Delegate Multicast\Delegate Multicast\obj\Debug\Delegate Multicast.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Delegate Multicast\Delegate Multicast\obj\Debug\Delegate Multicast.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Delegate Multicast\Delegate Multicast\obj\Debug\Delegate Multicast.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Delegate Multicast\Delegate Multicast\obj\Debug\Delegate Multicast.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Delegate Multicast\Delegate Multicast\obj\Debug\Delegate Multicast.pdb
