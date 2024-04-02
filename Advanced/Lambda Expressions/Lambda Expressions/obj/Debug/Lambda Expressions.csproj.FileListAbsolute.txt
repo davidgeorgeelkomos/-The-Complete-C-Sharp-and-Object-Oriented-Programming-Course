@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Lambda Expressions\Lambda Expressions\bin\Debug\Lambda Expressions.exe.config
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Lambda Expressions\Lambda Expressions\bin\Debug\Lambda Expressions.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Lambda Expressions\Lambda Expressions\bin\Debug\Lambda Expressions.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Lambda Expressions\Lambda Expressions\obj\Debug\Lambda Expressions.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Lambda Expressions\Lambda Expressions\obj\Debug\Lambda Expressions.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Lambda Expressions\Lambda Expressions\obj\Debug\Lambda Expressions.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Lambda Expressions\Lambda Expressions\obj\Debug\Lambda Expressions.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Lambda Expressions\Lambda Expressions\obj\Debug\Lambda Expressions.pdb
