@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\A_W_A_M_L_E\A_W_A_M_L_E\bin\Debug\A_W_A_M_L_E.exe.config
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\A_W_A_M_L_E\A_W_A_M_L_E\bin\Debug\A_W_A_M_L_E.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\A_W_A_M_L_E\A_W_A_M_L_E\bin\Debug\A_W_A_M_L_E.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\A_W_A_M_L_E\A_W_A_M_L_E\obj\Debug\A_W_A_M_L_E.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\A_W_A_M_L_E\A_W_A_M_L_E\obj\Debug\A_W_A_M_L_E.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\A_W_A_M_L_E\A_W_A_M_L_E\obj\Debug\A_W_A_M_L_E.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\A_W_A_M_L_E\A_W_A_M_L_E\obj\Debug\A_W_A_M_L_E.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\A_W_A_M_L_E\A_W_A_M_L_E\obj\Debug\A_W_A_M_L_E.pdb
