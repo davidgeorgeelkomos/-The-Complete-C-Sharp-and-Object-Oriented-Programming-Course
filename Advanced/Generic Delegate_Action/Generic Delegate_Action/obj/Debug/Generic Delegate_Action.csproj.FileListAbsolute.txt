@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Delegate_Action\Generic Delegate_Action\bin\Debug\Generic Delegate_Action.exe.config
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Delegate_Action\Generic Delegate_Action\bin\Debug\Generic Delegate_Action.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Delegate_Action\Generic Delegate_Action\bin\Debug\Generic Delegate_Action.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Delegate_Action\Generic Delegate_Action\obj\Debug\Generic Delegate_Action.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Delegate_Action\Generic Delegate_Action\obj\Debug\Generic Delegate_Action.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Delegate_Action\Generic Delegate_Action\obj\Debug\Generic Delegate_Action.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Delegate_Action\Generic Delegate_Action\obj\Debug\Generic Delegate_Action.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Generic Delegate_Action\Generic Delegate_Action\obj\Debug\Generic Delegate_Action.pdb
