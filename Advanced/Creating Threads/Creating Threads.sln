@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creating Threads", "Creating Threads\Creating Threads.csproj", "{389C30B3-E6F0-49C5-943B-B4485734CD77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{389C30B3-E6F0-49C5-943B-B4485734CD77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389C30B3-E6F0-49C5-943B-B4485734CD77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389C30B3-E6F0-49C5-943B-B4485734CD77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389C30B3-E6F0-49C5-943B-B4485734CD77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89A15355-F047-4523-AD24-0C1313676D6D}
+	EndGlobalSection
+EndGlobal

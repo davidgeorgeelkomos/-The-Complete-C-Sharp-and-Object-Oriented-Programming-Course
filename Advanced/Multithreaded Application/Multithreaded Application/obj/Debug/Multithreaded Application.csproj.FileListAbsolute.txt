@@ -1,0 +1,8 @@
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Multithreaded Application\Multithreaded Application\bin\Debug\Multithreaded Application.exe.config
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Multithreaded Application\Multithreaded Application\bin\Debug\Multithreaded Application.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Multithreaded Application\Multithreaded Application\bin\Debug\Multithreaded Application.pdb
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Multithreaded Application\Multithreaded Application\obj\Debug\Multithreaded Application.csproj.AssemblyReference.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Multithreaded Application\Multithreaded Application\obj\Debug\Multithreaded Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Multithreaded Application\Multithreaded Application\obj\Debug\Multithreaded Application.csproj.CoreCompileInputs.cache
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Multithreaded Application\Multithreaded Application\obj\Debug\Multithreaded Application.exe
+C:\Users\a2aka\source\repos\[UDEMY] The Complete C Sharp and Object-Oriented Programming Course [FTU]\Advanced\Multithreaded Application\Multithreaded Application\obj\Debug\Multithreaded Application.pdb
